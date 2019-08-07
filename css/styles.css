@@ -1,0 +1,9 @@
+html, body {
+  font-family: 'Metamorphous', cursive;
+  color: yellow
+}
+
+body {
+  background-image:url('https://i.imgur.com/N996dMz.gif');
+  background-size:cover;
+}
